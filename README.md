@@ -1,2 +1,2 @@
 # Data-Structure-C-Programming
-Just another repository
+Data structure in c programmin. Beginner level.   
